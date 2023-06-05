@@ -1,2 +1,2 @@
-# andru.sjb
+# andrusjb
 personal rating website
